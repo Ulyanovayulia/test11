@@ -1,2 +1,6 @@
 dnsnsd,dn,sn,dsn,dsds
+<<<<<<< HEAD
 jsgjshsjshhj
+=======
+jhahajhska
+>>>>>>> 2
